@@ -1,5 +1,5 @@
 # Learn about git and github
 
-I am a tupid person.
+I am a supid person.
 
 yes.
